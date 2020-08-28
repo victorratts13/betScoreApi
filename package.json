@@ -1,0 +1,35 @@
+{
+  "name": "betscoreapi",
+  "version": "1.0.0",
+  "description": "data score for bet365",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorratts13/betsScoreApi.git"
+  },
+  "keywords": [
+    "bet",
+    "365",
+    "bet",
+    "source",
+    "bet",
+    "scraping",
+    "bet365",
+    "api",
+    "bet",
+    "lib",
+    "futebol"
+  ],
+  "author": "Victor Ratts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorratts13/betsScoreApi/issues"
+  },
+  "homepage": "https://github.com/victorratts13/betsScoreApi#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
