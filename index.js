@@ -51,6 +51,7 @@ class betScore {
     }
 }
 
+module.exports = betScore;
 //var bets = new betScore()
 
 // bets.event(8747962).then((data) => {
